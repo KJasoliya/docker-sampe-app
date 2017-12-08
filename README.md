@@ -1,4 +1,4 @@
-# Docker App#
+# Docker App #
 
 Build the image using the following command
 
