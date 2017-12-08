@@ -1,0 +1,46 @@
+{
+  "friends": [
+    {
+      "title": "My bestfriend",
+      "firstName": "Shreya",
+      "lastName": "Patel",
+      "age": "21"
+    },
+    {
+      "title": "Helpcenter.. :P",
+      "firstName": "Nikhil",
+      "lastName": "Bhatia",
+      "age": "21"
+    },
+    {
+      "title": "Apple's customer service",
+      "firstName": "Priyal",
+      "lastName": "Shah",
+      "age": "23"
+    },
+    {
+      "title": "Forever therepist",
+      "firstName": "Nikesh",
+      "lastName": "Patel",
+      "age": "23"
+    },
+    {
+      "title": "The Latecomer",
+      "firstName": "Pratik",
+      "lastName": "Sethia",
+      "age": "23"
+    },
+    {
+      "title": "Bro",
+      "firstName": "Jay",
+      "lastName": "Patel",
+      "age": "25"
+    },
+    {
+      "title": "The rotlu",
+      "firstName": "Deep",
+      "lastName": "Sharma",
+      "age": "23"
+    }
+  ]
+}
